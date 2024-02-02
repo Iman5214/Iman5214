@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iman5214
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in Vlsi design
+- 🌱 I’m currently learning VERILOG AND VHDL
+- 💞️ I’m looking to collaborate on vhdl and verilog codes
 - 📫 How to reach me through my mail at iman00005214@gmail.com
 
 <!---
